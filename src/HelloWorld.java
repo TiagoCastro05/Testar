@@ -3,5 +3,7 @@ public class HelloWorld {
 
         String frase = "Hello World!";
 
+        System.out.printf(frase);
+
     }
 }
