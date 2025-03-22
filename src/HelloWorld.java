@@ -5,5 +5,9 @@ public class HelloWorld {
 
         System.out.printf(frase);
 
+        String frase2 = "Goodbye world!";
+
+        System.out.printf(frase2);
+
     }
 }
